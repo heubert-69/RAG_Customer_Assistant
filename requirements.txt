@@ -1,0 +1,9 @@
+streamlit
+langchain
+langgraph
+chromadb
+sentence-transformers
+transformers
+torch
+pymupdf
+psycopg2-binary
